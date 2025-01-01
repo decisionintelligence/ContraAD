@@ -1,13 +1,14 @@
 # ContraAD
 
+This is the official code "Noise Matters: Cross Contrastive Learning for Flink Anomaly Detection"
 
 ## Overview
 
 ![overview](./img/overview.png)
 
 ### Key Contribution
-1. We using a cross contrastive method to detect the anomaly.
-2. We using a prior information to alleviate the noise inside training dataset 
+1. We use a cross contrastive method to detect the anomaly.
+2. We use a prior information to alleviate the noise inside training dataset 
 
 ## code structure
 
@@ -58,3 +59,12 @@ folder.
 
 
 ![overview](./img/result.png)
+
+
+## Citation
+
+If you find the code useful, please cite our paper.
+
+```bash
+
+```
